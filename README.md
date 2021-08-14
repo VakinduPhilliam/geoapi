@@ -3,13 +3,19 @@
 ## API Documentation
 
 URL/  : Endpoint: /Providers
+
       : GET, POST
+      
       : Description: Create a Provider.
+      
       : URL: http://localhost:8000/providers
 
 URL/  : Endpoint: /Providers/1
+
       : GET, DELETE, PUT
+      
       : Description: A Provider's Details. Update, Delete Provider.
+      
       : URL: http://localhost:8000/providers/1
 
 URL/  : Endpoint: /Providers/1/Polygons
